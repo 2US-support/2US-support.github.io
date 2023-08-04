@@ -54,7 +54,7 @@ features                                  :
 
   - title                                 : Custom Tasks
     description                           : Personalize tasks based on your preferences, ensuring they align with your unique relationship journey.
-    fontawesome_icon_name                 : circlecheck
+    fontawesome_icon_name                 : check
   
   - title                                 : Notes
     description                           : Whether it's a gift idea, travel itinerary, or simply your thoughts, notes provide a convenient space to keep everything organized and at your fingertips.
