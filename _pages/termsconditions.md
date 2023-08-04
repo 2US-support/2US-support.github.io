@@ -4,9 +4,9 @@ title: Terms and Conditions of Use
 include_in_header: false
 ---
 
-# TERMS AND CONDITIONS OF USE
-
 **Last updated July 23, 2023**
+
+# TERMS AND CONDITIONS OF USE
 
 **This service includes subscriptions that automatically renew.** Please read these terms and conditions of use (the "Terms") carefully (in particular, Section 7 "SUBSCRIPTION FEES AND PAYMENT") before starting a trial or completing a purchase for our app’s auto-renewing subscription service. **To avoid being charged** you must **affirmatively cancel** your subscription **at least 24 hours before the end of the free trial or then-current subscription period.**
 
