@@ -4,8 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-Last updated July 23, 2023
+**Last updated July 23, 2023**  
 
 # Privacy Policy
 
