@@ -16,8 +16,11 @@ We recommend that you print a copy or make a screenshot of these Terms for your 
 ## 1. ACCEPTANCE OF TERMS
 
 1.1. These Terms govern your use of the 2US mobile application (the "App") created by Vladyslav Shcherbyna (the “Developer”, referred also as "we", "us", and "our"). The App, together with the Content, tools, transactions and other services available by using the App, are collectively referred to as the "Service".
+<br>
 1.2. These Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ("you"), and the Developer, concerning your access to and use of the Service. You agree that by accessing the Service, you have read, understood, and agreed to be bound by all of these Terms. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICE AND YOU MUST DISCONTINUE USE IMMEDIATELY.
+<br>
 1.3. We reserve the right, in our sole discretion, to make changes or modifications to these Terms from time to time. We will alert you about any changes by updating the "Last updated" date of these Terms, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms by your continued use of the Service after the date such revised Terms are posted.
+<br>
 1.4. The Service is intended for users who are at least 16 years old. Persons under the age of 16 are not permitted to use or register for the Service.
 
 ## 2. DISCLAIMERS
