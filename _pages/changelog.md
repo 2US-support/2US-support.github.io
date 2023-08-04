@@ -1,7 +1,10 @@
 ---
-layout: page
-title: What's New
-include_in_header: true
+
+[//]: # (layout: page)
+
+[//]: # (title: What's New)
+
+[//]: # (include_in_header: true)
 ---
 
 # Changelog
