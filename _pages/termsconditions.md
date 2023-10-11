@@ -63,7 +63,7 @@ We recommend that you print a copy or make a screenshot of these Terms for your 
 <br>
 4.2.2. Except as set out in this section or elsewhere in these Terms, no part of the Service and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission.
 <br>
-4.2.3. If you wish to make any use of the Service, Content, or Marks other than as set out in this section or elsewhere in our Terms, please address your request to: <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>. If we ever grant you the permission to post, reproduce, or publicly display any part of our Service or Content, you must identify us as the owners or licensors of the Service, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
+4.2.3. If you wish to make any use of the Service, Content, or Marks other than as set out in this section or elsewhere in our Terms, please address your request to: <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>. If we ever grant you the permission to post, reproduce, or publicly display any part of our Service or Content, you must identify us as the owners or licensors of the Service, Content, or Marks and ensure that any copyright or proprietary notice appears or is visible on posting, reproducing, or displaying our Content.
 <br>
 4.2.4. We reserve all rights not expressly granted to you in and to the Service, Content, and Marks.
 <br>
@@ -310,4 +310,4 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 
 In order to resolve a complaint regarding the Service or to receive further information regarding the use of the Service, please contact us at:
 <br>
-<span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+<span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.

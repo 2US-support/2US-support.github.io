@@ -14,7 +14,7 @@ In order to use the App, we will ask you to enter your username and gender. We a
 
 For improving the app and serving ads, we may share this data with third parties. Such parties include Facebook, Apple, Supabase, RevenueCat, Onesignal, Crashlytics, Firebase. As a result of sharing this data with third parties we (1) analyze different interactions; (2) serve ads (and show them only to a particular group of users, for example, to subscribers).
 
-Please read our Privacy Policy below to know more about what we do with data, what data privacy rights are available to you and who will be the data controller. If any questions will remain unanswered, please contact us at <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+Please read our Privacy Policy below to know more about what we do with data, what data privacy rights are available to you and who will be the data controller. If any questions will remain unanswered, please contact us at <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
 
 ## 1.0 Information We Collect
 
@@ -130,7 +130,7 @@ We have implemented appropriate and reasonable technical and organizational secu
 
 ## 8. DO WE COLLECT INFORMATION FROM MINORS?
 
-We do not knowingly solicit data from or market to children under 16 years of age. By using the Services, you represent that you are at least 16 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 16 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 16, please contact us at <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+We do not knowingly solicit data from or market to children under 16 years of age. By using the Services, you represent that you are at least 16 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 16 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 16, please contact us at <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
 
 ## 9. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -148,7 +148,7 @@ However, please note that this will not affect the lawfulness of the processing 
 
 Opting out of marketing and promotional communications: You can unsubscribe from our marketing and promotional communications at any time by clicking on the unsubscribe link in the emails that we send, or by contacting us using the details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
 
-If you have questions or comments about your privacy rights, you may email us at <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+If you have questions or comments about your privacy rights, you may email us at <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
 
 ## 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
@@ -210,13 +210,13 @@ For more details about the personal information we have collected, including the
 
 Subject to certain limitations, the CCPA provides California consumers the right to request to know more details about the categories or specific pieces of personal information we collect (including how we use and disclose this information), to delete their personal information, to opt-out of any “sales” that may be occurring, and to not be discriminated against for exercising these rights.
 
-California consumers may make a request pursuant to their rights under the CCPA by contacting us at <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>. We will verify your request and inform you accordingly. You may also designate an authorized agent to exercise these rights on your behalf.
+California consumers may make a request pursuant to their rights under the CCPA by contacting us at <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>. We will verify your request and inform you accordingly. You may also designate an authorized agent to exercise these rights on your behalf.
 
 **Access rights under California’s Shine the Light**
 
 California also provides its residents with additional access rights. Under Shine the Light law, the residents may ask companies once a year what personal information they share with third parties for those third parties' direct marketing purposes. Learn more about what is considered to be personal information under the statute.
 
-To obtain this information from us, please send an email message to <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>, which includes “Request for California Shine the Light Privacy Information” on the subject line and your state of residence and email address in the body of your message. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+To obtain this information from us, please send an email message to <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>, which includes “Request for California Shine the Light Privacy Information” on the subject line and your state of residence and email address in the body of your message. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
 
 ## 13. DO WE MAKE UPDATES TO THIS NOTICE?
 
@@ -224,7 +224,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 14. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at <span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+If you have questions or comments about this notice, you may email us at <span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
 
 ## 15. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
@@ -244,4 +244,4 @@ To be in control of your personal data, you have the following rights:
 - **The right to data portability.** If you wish to receive your personal data in a machine-readable format, you can do so by requesting a copy of your personal data as described above. The data will be made available to you in the .json file or other file format.
 
 To exercise any of the available to you privacy rights, please send a request to:
-<span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
+<span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
