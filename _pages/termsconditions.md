@@ -310,4 +310,4 @@ You agree to defend, indemnify, and hold us harmless, including our subsidiaries
 
 In order to resolve a complaint regarding the Service or to receive further information regarding the use of the Service, please contact us at:
 <br>
-<span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
+<span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.

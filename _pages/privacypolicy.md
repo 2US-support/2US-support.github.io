@@ -244,4 +244,4 @@ To be in control of your personal data, you have the following rights:
 - **The right to data portability.** If you wish to receive your personal data in a machine-readable format, you can do so by requesting a copy of your personal data as described above. The data will be made available to you in the .json file or other file format.
 
 To exercise any of the available to you privacy rights, please send a request to:
-<span style="color: #1d63ea">[support@2usapp.com](mailto:support@2usapp.com)</span>.
+<span style="color: #1d63ea">[2usrelationshipapp@gmail.com](mailto:2usrelationshipapp@gmail.com)</span>.
